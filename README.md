@@ -1,5 +1,5 @@
 # GP-FR
-This is the code for the paper "Genetic Programming for Feature Extraction and Construction in Image Classification" 
+This is the code for the paper "Genetic Programming for Image Classification: A New Program Representation With Flexible Feature Reuse" 
 If you use the codes, please cite the paper. 
 @ARTICLE{9761990,
   author={Fan, Qinglan and Bi, Ying and Xue, Bing and Zhang, Mengjie},
